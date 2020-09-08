@@ -14,7 +14,7 @@ We have managed to get the useful insights from the cleaned data above. Here is 
 ![Image of Yaktocat](https://camo.githubusercontent.com/cb9c0f7b4b440c0a2bf39b69f6d07e09a97ce63a/68747470733a2f2f686d702e6d652f6462767a)
 ![Image of Yaktocat](https://hmp.me/dbv0)
 
-We have tried out label-encoding as well as one-hot encoding during the modeling process. We have implemented Binary Decision Tree Model as well as the Random Forest Model. The random forest gives us the better on the spilited training and test data. So, we have decided to deploy the random forest model on all the job fields with and without salaries. Here is the result
+We have tried out label-encoding as well as one-hot encoding during the modeling process. We have implemented Binary Decision Tree Model as well as the Random Forest Model. The random forest gives us the better results on the spilited training and test data. So, we have decided to deploy the random forest model on all the job fields with and without salaries. Here is the result
 
 ![Image of Yaktocat](https://hmp.me/dbv1)
 
