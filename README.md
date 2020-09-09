@@ -11,7 +11,7 @@ We have preprocesssed the data to extract some insights from the synopsis or job
 
 We have managed to get the useful insights from the cleaned data above. Here is the sneak peak of exploratory analysis of data.
 
-![Image of Yaktocat](https://ibb.co/9HCrgpX)
+![Image of Analysis](https://i.ibb.co/yFbQPNT/Untitled.png)
 ![Image of Yaktocat](https://hmp.me/dbv0)
 
 We have tried out label-encoding as well as one-hot encoding during the modeling process. We have implemented Binary Decision Tree Model as well as the Random Forest Model. The random forest gives us the better results on the spilited training and test data. So, we have decided to deploy the random forest model on all the job fields with and without salaries. Here is the result
